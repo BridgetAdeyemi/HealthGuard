@@ -24,3 +24,6 @@ Health Guard offers users easy access to healthcare services, including virtual 
   
 **Purpose**    
 Health Guard aims to streamline access to healthcare services, making it easier for users to manage their health online. The collaboration between the development team and UI/UX designers ensured that the website provides a user-friendly experience while maintaining the functionality necessary for medical services.
+
+**Live Demo**     
+Checkout the live version of the project here
